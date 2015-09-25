@@ -33,7 +33,7 @@ ClassObj someClass = snapshot.findClass("com.example.SomeClass");
 
 ```
 dependencies {
-  compile 'com.squareup.haha:haha:2.0'
+  compile 'com.squareup.haha:haha:2.0.2'
 }
 ```
 
